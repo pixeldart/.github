@@ -9,9 +9,13 @@ Our applications are built using the following technologies:
 - NextJS (ReactJS)
 - TypeScript
 - NodeJS
+- Firbase & Firestore
 - React Native
 - HTML/CSS
 - Vanilla JavaScript
+- MongoDB
+- PostgreSQL
+- Algolia Search
 
 ### Services
 
