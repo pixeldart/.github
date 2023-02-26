@@ -28,6 +28,6 @@ We offer the following services:
 
 ### Contact Us
 
-To get in touch with us, please send an email to contact@pixeldart.com. You can also visit our website at www.pixeldart.com for more information about our services.
+To get in touch with us, please send an email to contact@pixeldart.com. You can also visit our website at https://pixeldart.com for more information about our services.
 
 Thank you for considering pixeldart for your web and mobile development needs!
